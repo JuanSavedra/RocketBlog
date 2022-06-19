@@ -5,15 +5,13 @@ Desafio da Rocketseat para criar a homepage de um blog.
 ### Contém
 - ✔️ Navbar.
 - ✔️ Header.
-- ✔️ Barra com informações do perfil: Tweets, Followings, Followers, Favorites, Lists e Moments. 
-- ✔️ Parte do perfil, junto com nome do usuário, descrição, seguidores e imagens.
-- ✔️ Timeline contendo os tweets fictícios.
-- ✔️ Sugestões de pessoas para seguir.
+- ✔️ Seção dos posts. 
+- ✔️ Outros posts.
+- ✔️ Footer.
 
 ### Falta fazer
--  ❗ Funcionalidades Javascript (como criar um tweet por exemplo).
+-  ❗ Funcionalidades Javascript.
 -  ❗ Responsividade.
--  ❗ Assuntos do momentos.
 
 ### Fotos do Projeto
 ![Screenshot_6](https://user-images.githubusercontent.com/66082393/174497820-d012afd8-09d3-4126-8a28-4552fd0fa18f.png)
