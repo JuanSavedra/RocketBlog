@@ -161,3 +161,26 @@ ul {
     margin-top: 0.25rem;
     color: var(--purple-bg);
 }
+
+/* Other posts */
+#main-content .container .other-posts {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.50rem;
+    margin-bottom: 2rem;
+}
+
+#main-content .container .other-posts div p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 0.75rem;
+}
+
+#main-content .container .other-posts div h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0.75rem;
+    color: var(--purple-bg);
+}
