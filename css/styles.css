@@ -92,7 +92,6 @@ ul {
     font-size: 36px;
     font-weight: bold;
     color: var(--button-bg);
-    margin-bottom: 2rem;
 }
 
 #main-header .container #section-header p {
@@ -100,7 +99,7 @@ ul {
     font-size: 18px;
     font-weight: normal;
     color: var(--white);
-    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 #main-header .container #section-header a {
@@ -110,8 +109,55 @@ ul {
     font-size: 18px;
     font-weight: bold;
     color: var(--button-bg);
+    margin-top: 2rem;
 }
 
 #main-header .container #section-header a img {
     padding: 0 0.40rem;
+}
+
+/* Main */
+#main-content .container .entrance-post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    gap: 6rem;
+}
+
+#main-content .container .entrance-post .initial-post {
+    font-family: 'Roboto', sans-serif;
+}
+
+#main-content .container .entrance-post .initial-post p {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 1.25rem;
+}
+
+#main-content .container .entrance-post .initial-post h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--purple-bg);
+    margin-top: 1.25rem;
+}
+
+#main-content .container .entrance-post .other-posts ul li {
+    margin-bottom: 3.75rem;
+}
+
+#main-content .container .entrance-post .other-posts ul li p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 1.25rem;
+}
+
+#main-content .container .entrance-post .other-posts ul li h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0.25rem;
+    color: var(--purple-bg);
 }
