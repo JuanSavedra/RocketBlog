@@ -3,11 +3,7 @@ Desafio da Rocketseat para criar a homepage de um blog.
 
 ## Detalhes do projeto:
 ### Contém
-- ✔️ Navbar.
-- ✔️ Header.
-- ✔️ Seção dos posts. 
-- ✔️ Outros posts.
-- ✔️ Footer.
+- ✔️ Coisas padrões de uma homepage.
 
 ### Falta fazer
 -  ❗ Funcionalidades Javascript.
